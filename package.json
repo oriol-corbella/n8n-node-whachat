@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-wha-chat",
+  "name": "n8n-nodes-whachat",
   "version": "1.0.0",
   "description": "n8n node for WhaChat API integration",
   "keywords": [
@@ -10,14 +10,14 @@
     "whatsapp"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/n8n-nodes-wha-chat",
+  "homepage": "https://github.com/yourusername/n8n-nodes-whachat",
   "author": {
     "name": "Custom Node Author",
     "email": "your.email@example.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/n8n-nodes-wha-chat.git"
+    "url": "https://github.com/yourusername/n8n-nodes-whachat.git"
   },
   "main": "index.js",
   "scripts": {
@@ -34,10 +34,10 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
-      "dist/credentials/WhatsChat.credentials.js"
+      "dist/credentials/WhaChat.credentials.js"
     ],
     "nodes": [
-      "dist/nodes/WhatsChat/WhatsChat.node.js"
+      "dist/nodes/WhaChat/WhaChat.node.js"
     ]
   },
   "devDependencies": {

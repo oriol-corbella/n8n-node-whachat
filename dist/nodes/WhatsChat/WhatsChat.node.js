@@ -431,4 +431,4 @@ class WhaChat {
     }
 }
 exports.WhaChat = WhaChat;
-//# sourceMappingURL=WhatsChat.node.js.map
+//# sourceMappingURL=WhaChat.node.js.map

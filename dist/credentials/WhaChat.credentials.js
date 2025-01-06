@@ -16,4 +16,4 @@ class WhaChat {
     }
 }
 exports.WhaChat = WhaChat;
-//# sourceMappingURL=WhatsChat.credentials.js.map
+//# sourceMappingURL=WhaChat.credentials.js.map

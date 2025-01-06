@@ -1,4 +1,4 @@
-# n8n-nodes-wha-chat
+# n8n-nodes-whachat
 
 This is an n8n community node for WhaChat API integration. It provides nodes to interact with WhaChat's messaging and contact management features.
 
@@ -21,7 +21,7 @@ Follow these steps to install this node:
 npm install n8n -g
 
 # Install this node
-npm install n8n-nodes-wha-chat
+npm install n8n-nodes-whachat
 ```
 
 ## Operations
