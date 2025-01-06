@@ -1,0 +1,17 @@
+# source
+nodes/
+credentials/
+
+# typescript
+*.ts
+!*.d.ts
+
+# development
+node_modules/
+.git/
+.idea/
+.vscode/
+.eslintrc.js
+.prettierrc.js
+tsconfig.json
+package-lock.json
